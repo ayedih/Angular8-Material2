@@ -1,0 +1,4 @@
+/*This JSON file will act as a database for your REST API server. You can simply add some data to be served by your REST API or use Faker.js for automatically generating massive amounts of realistic fake data.*/
+{
+    "products": []
+}
